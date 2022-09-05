@@ -21,7 +21,7 @@ function BarCodeListScreen() {
           {key: 'James'},
           {key: 'Joel'},
           {key: 'John'},
-          {key: 'Jillian'},
+          {key: 'Stephan'},
           {key: 'Jimmy'},
           {key: 'Julie'},
           {key: 'Devin1'},
